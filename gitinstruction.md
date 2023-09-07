@@ -53,3 +53,6 @@
 2. Руководства для начинающих, используемый как [источник](http://cluster.krc.karelia.ru/doc/rukovodstvo_GIT.pdf) для данной статьи.
 
 Добавлена работа с изображением
+Для работы с изображениями необходимо добавить в файл .gitignore, а в файле с языком разметки Markdown вписать следующую конструкцию:
+
+![osnovnye-git-komandy.png](osnovnye-git-komandy.png)
