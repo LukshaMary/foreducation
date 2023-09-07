@@ -54,5 +54,7 @@
 
 Добавляю текст для 2 занятия
 Основные команды для работы с ветками:
-git branch
-git branch <название ветки>
+* git branch
+* git branch <название ветки>
+* git checkout <название ветки>
+* git log --graph
