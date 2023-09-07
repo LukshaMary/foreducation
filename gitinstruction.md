@@ -51,3 +51,8 @@
 1. Интерактивные туториалы [на русском языке](http://githowto.com/ru), [на английском](https://try.github.io) и даже в виде [игры](http://pcottle.github.io/learnGitBranching/).
 
 2. Руководства для начинающих, используемый как [источник](http://cluster.krc.karelia.ru/doc/rukovodstvo_GIT.pdf) для данной статьи.
+
+Добавляю текст для 2 занятия
+Основные команды для работы с ветками:
+git branch
+git branch <название ветки>
