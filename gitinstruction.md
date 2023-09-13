@@ -89,3 +89,13 @@
 * git remote add origin https://github.com/LukshaMary/[имя_файла].git
 * git branch -M main
 * git push -u origin main
+
+Также доступно использование команд, связанных с созданием репозитория онлайн на GitHub:
+
+* echo "# new" >> README.md
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git branch -M main
+* git remote add origin https://github.com/LukshaMary/[имя_файла].git
+* git push -u origin main
